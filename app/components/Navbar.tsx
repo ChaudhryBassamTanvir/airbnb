@@ -12,7 +12,7 @@ const Navbar = () => {
       </div>
 
       {/* Center Section - Navigation Links */}
-      <div className="flex space-x-8 mr-3">
+      <div className="flex space-x-8 lg:ml-4">
         <a href="#" className="text-gray-800 hover:text-black">Stays</a>
         <a href="#" className="text-gray-800 hover:text-black">Experience</a>
       </div>
