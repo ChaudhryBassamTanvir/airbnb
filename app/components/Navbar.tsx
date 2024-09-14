@@ -18,7 +18,7 @@ const Navbar = () => {
       </div>
 
       {/* Right Section - 'Airbnb your home' and Language Icon */}
-      <div className="flex items-center space-x-4 mr-14">
+      <div className="flex items-center space-x-4 lg:mr-20">
         <a href="#" className="text-gray-800 hover:text-black">Airbnb your home</a>
         <button className="text-gray-800 hover:text-black">
           <i className=" text-black font-bold fas fa-globe"><CiGlobe size={20} /></i> {/* Assuming you're using Font Awesome for the language icon */}
