@@ -5,8 +5,8 @@ import { CiGlobe } from "react-icons/ci";
 
 const Navbar = () => {
   return (
+      // {/* Left Section - Logo */}
     <nav className="flex justify-between items-center p-6 ">
-      {/* Left Section - Logo */}
       <div className="lg:ml-14 md:ml-9 ml-5">
         <Airbnb />
       </div>
